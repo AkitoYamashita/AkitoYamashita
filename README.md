@@ -29,26 +29,6 @@
 ![](https://img.shields.io/badge/-JetBrains%20IDE-000.svg?logo=intellij-idea&style=flat)
 ![](https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic)
 
-### OS
-![](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic)
-![](https://img.shields.io/badge/-MacOS-000000.svg?logo=macos&style=plastic)
-![](https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic)
-![](https://img.shields.io/badge/-iOS-000000.svg?logo=ios&style=plastic)
-![](https://img.shields.io/badge/-Redhat-EE0000.svg?logo=redhat&style=plastic)
-![](https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic)
-![](https://img.shields.io/badge/-Archlinux-1793D1.svg?logo=archlinux&style=plastic)
-
-### SaaS
-![](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat)
-![](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
-![](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat)
-![](https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic)
-
-### Middleware
-![](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)
-![](https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat)
-![](https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic)
-
 ### Tools:
 ![](https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic)
 ![](https://img.shields.io/badge/-AutodeskMaya-000000.svg?logo=autodesk&style=plastic)
