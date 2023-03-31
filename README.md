@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic)
 ![](https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic)
 
-### Editor
+### Editor:
 
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)
 ![](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
